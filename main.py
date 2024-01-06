@@ -1,4 +1,4 @@
-# AAP ver 0.1
+# AAP ver 0.2
 import speech_recognition as sr
 import os
 import sys
